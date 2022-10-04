@@ -23,4 +23,6 @@ Analista e desenvolvedor de sistemas, trabalhando executando projetos, implement
 
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberPanno)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Meu email: kleberpannoti@hotmail.com
