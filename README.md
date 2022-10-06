@@ -20,7 +20,7 @@ Analista e programador em TI e Dev, estou sempre em busca de aprendizagens que m
 <img align="center" all="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação
+Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberPanno)](https://github.com/anuraghazra/github-readme-stats)
 
