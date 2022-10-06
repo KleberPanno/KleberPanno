@@ -1,6 +1,6 @@
 ### Olá !!!! Eu sou o Kleber Panno 👋
 
-Analista e programador em TI, estou sempre em busca de aprendizagens que me proporcionem ampliar minhas áreas de conhecimento, procurando ter conhecimento sobre diversas linguagem de programação, de forma, em diversificar os meus conhecimentos.
+Analista e programador em TI e Dev, estou sempre em busca de aprendizagens que me proporcionem ampliar minhas áreas de conhecimento, procurando ter conhecimento sobre diversas linguagem de programação, de forma, em diversificar os meus conhecimentos.
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://sujeitoprogramador.com)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KleberPannoTI)
@@ -35,7 +35,7 @@ Sistemas Operacionais - SO
 
 #### 📧 Meu email: kleberpannoti@hotmail.com
 
-#### Feito com:
+### Feito com:
 <div style="display: inline_block">
 <img align="center" all="VSCode" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>
 </div><br/>
