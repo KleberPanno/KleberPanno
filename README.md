@@ -1,6 +1,6 @@
 ### Olá !!!! Eu sou o Kleber Panno 👋
 
-Analista e programador em TI e Dev, sempre estou trabalhando em busca de aprendizagens, realizações de testes e implementações de projetos, que me proporcionam à ampliar as minhas áreas de conhecimento, sobre multiplas linguagens de programação, de forma, em diversificar os meus conhecimento e me preparar melhor para o mercado de trabalho.
+Analista e programador em TI e Dev, sempre estou trabalhando em busca de aprendizagens, realizações de testes e implementações de projetos, que me proporcionem à ampliar as minhas áreas de conhecimento, sobre multiplas linguagens de programação, de forma, em diversificar os meus conhecimento e me preparar melhor para o mercado de trabalho.
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://sujeitoprogramador.com)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KleberPannoTI)
