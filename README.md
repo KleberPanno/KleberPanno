@@ -20,13 +20,13 @@ Analista e programador em TI e Dev, estou sempre em busca de aprendizagens que m
 <img align="center" all="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+Aficionado por tecnologia e por modificar a vida das pessoas através da concepção da programação.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleberPanno)](https://github.com/anuraghazra/github-readme-stats)
 
 Sistemas Operacionais - SO
 <div style="display: inline_block">
-<img align="center" all="WindowsXP" src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/>
+<img align="center" all="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img align="center" all="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img align="center" all="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img align="center" all="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
@@ -34,8 +34,6 @@ Sistemas Operacionais - SO
 
 
 #### 📧 Meu email: kleberpannoti@hotmail.com
-
-### Feito com:
 <div style="display: inline_block">
 <img align="center" all="VSCode" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>
 </div><br/>
